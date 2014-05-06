@@ -1,4 +1,4 @@
 DataAnalysisR
 =============
 
-Data Analysis using R
+All files in this repository are w.r.t Analysis using R
